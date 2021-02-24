@@ -1,2 +1,2 @@
 # Arduino
-My repository to store the firmwares made for Arduino. 
+Repository to store the firmwares made for Arduino. 
